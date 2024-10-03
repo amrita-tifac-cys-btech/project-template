@@ -7,6 +7,8 @@
 
 ## Abstract
 
+## Literature Survey and Exploration Reports
+
 ## Acknowledgement
 We would like to acknowledge the support provided by **TIFAC-CORE in Cyber Security**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore, India in carrying out this work as part of "**B.Tech Computer Science and Engineering (Cyber Security)**" Project. 
 
@@ -14,8 +16,10 @@ We would like to acknowledge the support provided by **TIFAC-CORE in Cyber Secur
 #### Mentor: Sitaram Chamarty, Professor of Practice, TIFAC-CORE in Cyber Security, ASC - Coimbatore
 
 ## References
+APA Format
 
 ## Publications
+TBD
 
 ## Team Members
 - [1]()
@@ -23,5 +27,5 @@ We would like to acknowledge the support provided by **TIFAC-CORE in Cyber Secur
 - [3]()
 - [4]()
 
-TBD
+
     
