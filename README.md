@@ -3,7 +3,7 @@
 </p>
 
 # Team#XX - Project Title ![](https://img.shields.io/badge/-Live-brightgreen)
-![](https://img.shields.io/badge/Batch-23UCYS-green) <br/> ![](https://img.shields.io/badge/Domain-Security-blue)  ![](https://img.shields.io/badge/Focus-TBD-yellow)  ![](https://img.shields.io/badge/B.Tech--Project-Started-brightgreen) <br/>
+![](https://img.shields.io/badge/Batch-23UCYS-gold) <br/> ![](https://img.shields.io/badge/Domain-Security-blue)  ![](https://img.shields.io/badge/Focus-TBD-yellow)  ![](https://img.shields.io/badge/B.Tech--Project-Started-brightgreen) <br/>
 
 ## Team Members
 
